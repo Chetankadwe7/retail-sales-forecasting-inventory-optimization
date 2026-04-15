@@ -87,17 +87,9 @@ python main.py
 
 ## 📊 Results
 
-### 📈 Sales Trend
-
-![Sales Trend](images/sales_trend.png)
-
-### 🔮 Prediction (Actual vs Predicted)
-
-![Prediction](images/prediction.png)
-
-### 📦 Inventory Optimization
-
-![Inventory](images/inventory.png)
+* 📈 [Sales Trend](images/sales_trend.png)
+* 🔮 [Prediction (Actual vs Predicted)](images/prediction.png)
+* 📦 [Inventory Optimization](images/inventory.png)
 
 ---
 
@@ -119,3 +111,4 @@ python main.py
 ## 💬 Conclusion
 
 This project demonstrates a complete pipeline from data processing to business decision-making using machine learning.
+
